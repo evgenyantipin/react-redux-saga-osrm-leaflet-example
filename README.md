@@ -1,4 +1,4 @@
-# Задание
+# :maple_leaf: react-leaflet-osrm-example
 
 [Demo](https://react-redux-saga-osrm-leaflet-example-evgenyantipin.vercel.app)
 
